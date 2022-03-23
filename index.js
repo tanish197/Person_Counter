@@ -40,6 +40,6 @@ function reset2(){
 
     save=0
     saveEl.innerText= save
-    
+    location.reload()
     
 }
